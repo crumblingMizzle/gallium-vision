@@ -1,0 +1,1 @@
+npx esbuild src/main.ts --bundle --watch=forever --outfile=main.js & npx serve

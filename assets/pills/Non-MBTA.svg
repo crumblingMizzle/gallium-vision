@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="630px" height="128px" viewBox="0 0 630 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Pill/Flex/Non-MBTA</title>
+    <g id="Pill/Flex/Non-MBTA" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Pill" fill="#737373" x="0" y="0" width="630" height="128" rx="64"></rect>
+        <text id="Line" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="96" font-weight="bold" line-spacing="96" fill="#FFFFFF">
+            <tspan x="64" y="104">Third Party</tspan>
+        </text>
+    </g>
+</svg>

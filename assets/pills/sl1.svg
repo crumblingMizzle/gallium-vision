@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="248px" height="128px" viewBox="0 0 248 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Pill/Fixed/Silver</title>
+    <g id="Pill/Fixed/Silver" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Pill" fill="#7C878E" x="0" y="0" width="248" height="128" rx="64"/>
+        <text id="Branch" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="84" font-weight="bold" fill="#FFFFFF">
+            <tspan x="48.484" y="94">SL1</tspan>
+        </text>
+    </g>
+</svg>

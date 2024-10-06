@@ -1,0 +1,84 @@
+{
+    "stops": [
+        {
+            "transit_id": "SL5",
+            "name": "Downtown Crossing",
+            "location": 112,
+            "children": [
+                { "location":   0, "name": "Nubian" },
+                { "location":  17, "name": "Melnea Cass Blvd" },
+                { "location":  38, "name": "Lenox St" },
+                { "location":  43, "name": "Massachusetts Ave" },
+                { "location":  45, "name": "Worcester Sq" },
+                { "location":  48, "name": "Newton St" },
+                { "location":  55, "name": "Union Park St" },
+                { "location":  66, "name": "East Berkeley St" },
+                { "location":  74, "name": "Herald St" },
+                { "location":  82, "name": "Tufts Medical Center" },
+                { "location":  92, "name": "Chinatown" }
+            ]
+        },
+        {
+            "transit_id": "WALK",
+            "name": "Chinatown",
+            "location": 153,
+            "children": [
+                { "location": 125, "name": "Boylston" }
+            ]
+        },
+        {
+            "transit_id": "SL4",
+            "name": "South Station",
+            "location": 190,
+            "children": []
+        },
+        {
+            "transit_id": "WALK",
+            "name": "South Station",
+            "location": 320,
+            "children": [
+                { "location": 250, "name": "Chinatown Gate" }
+            ]
+        },
+        {
+            "transit_id": "SL2",
+            "name": "Silver Line Way",
+            "location": 523,
+            "children": [
+                { "location": 343, "name": "Courthouse" },
+                { "location": 366, "name": "World Trade Center" },
+                { "location": 376, "name": "Silver Line Way" },
+                { "location": 402, "name": "Harbor St" },
+                { "location": 407, "name": "Tide St" },
+                { "location": 417, "name": "23 Drydock Ave" }
+            ]
+        },
+        {
+            "transit_id": "SL1",
+            "name": "Terminal E",
+            "location": 739,
+            "children": [
+                { "location": 675, "name": "Terminal A" },
+                { "location": 694, "name": "Terminal B, Stop 1" },
+                { "location": 704, "name": "Terminal B, Stop 2" },
+                { "location": 721, "name": "Terminal C" }
+            ]
+        },
+        {
+            "transit_id": "MASSPORT33",
+            "name": "Airport",
+            "location": 805,
+            "children": []
+        },
+        {
+            "transit_id": "SL3",
+            "name": "Chelsea",
+            "location": 1033,
+            "children": [
+                { "location": 944, "name": "Eastern Ave" },
+                { "location": 969, "name": "Box District" },
+                { "location": 989, "name": "Bellingham Sq" }
+            ]
+        }
+    ]
+}

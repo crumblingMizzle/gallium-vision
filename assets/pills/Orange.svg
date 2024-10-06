@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="248px" height="128px" viewBox="0 0 248 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Pill/Fixed/Orange</title>
+    <g id="Pill/Fixed/Orange" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Pill" fill="#ED8B00" x="0" y="0" width="248" height="128" rx="64"></rect>
+        <text id="Line" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="96" font-weight="bold" fill="#FFFFFF">
+            <tspan x="58.192" y="98">OL</tspan>
+        </text>
+    </g>
+</svg>

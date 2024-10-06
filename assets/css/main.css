@@ -1,0 +1,78 @@
+.leaflet-tooltip.my-labels {
+    background-color: transparent;
+    border: transparent;
+    box-shadow: none;
+    font-weight: 700;
+}
+.leaflet-tooltip.my-labels::before {
+    border: transparent;
+}
+
+html, body, #map {
+    height: 100%;
+    margin: 0px;
+}
+
+.info {
+    padding: 0px 8px 6px 8px;
+    font-family: Neue Haas Grotesk Text Pro, Helvetica, sans-serif;
+    font-size: 2em;
+    font-weight: 700;
+    background: rgba(240,240,240,0.8);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    height: 520px;
+    width: 444px;
+    overflow-y: auto;
+    scrollbar-width: none;
+}
+::-webkit-scrollbar {
+    width: 0;
+}
+
+.stop {
+    top: 0;
+    position: sticky;
+    display: flex;
+    align-items: center;
+    margin-top: 6px;
+    padding-block: 2px;
+    background: rgba(240,240,240,1.0);
+    padding-inline: 4px;
+}
+.info span {
+    margin-left: 4px;
+    color: #171F26;
+}
+.pill {
+    height: 32px;
+}
+.completion_marker {
+    margin-left: auto;
+    height: 24px;
+}
+
+.stop_partial {
+    font-size: 0.9em;
+    display: flex;
+    align-items: center;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-left: 80px;
+    margin-right: 3px;
+    background: rgba(240,240,240,0.8);
+    padding-inline: 4px;
+}
+.partial_completion_marker {
+    margin-left: auto;
+    height: 18px;
+}
+
+.target {
+    background: #C8C8C8;
+    border-radius: 8px;
+}
+.target_partial {
+    background: #D8D8D8;
+    border-radius: 8px;
+}
