@@ -3,7 +3,7 @@
 
 ### usage
 ```npm install && ./run.sh```
-open http://localhost:3000 and enjoy!
+, open http://localhost:3000 and enjoy!
 
 ### screenshot
 ![alt text](https://github.com/crumblingMizzle/gallium-witness/blob/main/assets/screenshot.png?raw=true)
